@@ -1,0 +1,11 @@
+set textwidth=79
+set ruler
+set nocompatible
+set incsearch
+set mouse=a
+set nu
+set showmatch
+set ignorecase
+set showmode
+set smartindent
+set tabstop=4
