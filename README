@@ -1,7 +1,7 @@
 This is a common place for my configuration files.
 
 TODO:
-- add comments to .vimrc
+- nocompatible setting in vim (This option stops vim from behaving in a strongly vi -compatible way) What's that?
 - make .screenrc
 - make .bashrc
 
