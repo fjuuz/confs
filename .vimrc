@@ -1,5 +1,7 @@
-" Useful VIM tips: http://www.ukuug.org/events/linux2004/programme/paper-SMyers/Linux_2004_slides/vim_tips/
-"
+" Useful VIM tips: 
+" http://www.ukuug.org/events/linux2004/programme/paper-SMyers/Linux_2004_slides/vim_tips/
+" http://phuzz.org/vimrc.html
+
 set textwidth=79
 
 " display the current cursor position in the lower right corner
