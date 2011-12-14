@@ -7,9 +7,8 @@ set textwidth=79
 " display the current cursor position in the lower right corner
 set ruler
 
-" this option stops vim from behaving in a strongly vi -compatible way
-" when you understand this one, uncomment or delete it
-" set nocompatible
+" disable vi compatibility
+set nocompatible
 
 " enable mouse support
 set mouse=
