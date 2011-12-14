@@ -13,9 +13,6 @@ set nocompatible
 " enable mouse support
 set mouse=
 
-" display line number
-set number
-
 " highlights the matching braces|brackets|parentheses when the cursor is on it
 set showmatch
 
