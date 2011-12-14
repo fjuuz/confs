@@ -1,8 +1,8 @@
 startup_message off
-hardstatus on
-hardstatus alwayslastline 
-# setting hardstatus string
-
+# caption always "%w"
+hardstatus alwayslastline "%n:%t %H %0c%a"
 
 # Default screens can be set like this:
 # screen -t NameOfScreen ScreenNumber ShellCommand
+
+# screen uses variable $STY for actual screen (in format [pid.]tty.host)
