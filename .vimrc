@@ -12,7 +12,7 @@ set ruler
 " set nocompatible
 
 " enable mouse support
-set mouse=a
+set mouse=
 
 " display line number
 set number
